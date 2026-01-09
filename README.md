@@ -1,4 +1,4 @@
-# 🚖 Geofence Event Processing Service
+# 🚖 Geofence Event Processing Service (Event in Range Detection)
 
 ## 📌 Project Overview
 This is a full-stack **Location-Based Service** designed to track vehicles in real-time and detect when they cross geographic boundaries (Geofences).
